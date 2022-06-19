@@ -34,3 +34,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Quick Tap
 TARGET_SUPPORTS_QUICK_TAP := true
+
+# Compile with Proton Clang
+USE_PROTON=true
