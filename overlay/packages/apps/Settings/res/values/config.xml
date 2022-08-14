@@ -28,4 +28,7 @@
     <string name="config_batteryCalculatedCapacity">/sys/class/power_supply/battery/charge_counter</string>
     <bool name="config_supportBatteryHealth">true</bool>
 
+<!-- Smart Charging -->
+    <bool name="config_supportSmartCharging">true</bool>
+
 </resources>
