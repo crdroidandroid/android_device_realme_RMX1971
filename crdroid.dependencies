@@ -2,7 +2,6 @@
     {
         "repository":   "crdroidandroid/android_device_realme_sdm710-common",
         "target_path":  "device/realme/sdm710-common",
-        "branch":       "13",
     },
     {
         "repository":   "crdroidandroid/android_kernel_realme_RMX1971",
@@ -11,7 +10,6 @@
     {
         "repository":   "crdroidandroid/android_vendor_realme_sdm710-common",
         "target_path":  "vendor/realme/sdm710-common",
-        "branch":       "13",
     },
     {
         "repository":   "crdroidandroid/vendor_realme_RMX1971",
