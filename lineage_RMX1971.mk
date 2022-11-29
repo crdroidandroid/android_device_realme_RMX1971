@@ -38,3 +38,7 @@ TARGET_SUPPORTS_QUICK_TAP := true
 
 # Compile with Proton Clang
 USE_PROTON=true
+
+#Disable EPPE
+TARGET_DISABLE_EPPE := true
+
